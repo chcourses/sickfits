@@ -1,11 +1,8 @@
-import Link from 'next/link'
+import Items from '../components/Items'
 
 const Index = props => (
     <div>
-      <p>Hey!</p>
-      <Link href="/sell">
-        <a>Sell</a>
-      </Link>
+      <Items />
     </div>
 )
 
