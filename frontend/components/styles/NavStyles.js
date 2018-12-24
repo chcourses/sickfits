@@ -34,7 +34,7 @@ const NavStyles = styled.ul`
       bottom: 0;
     }
     &:after {
-      height: 2px;
+      height: 3px;
       background: red;
       content: '';
       width: 0;
